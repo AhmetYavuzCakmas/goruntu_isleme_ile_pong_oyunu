@@ -1,1 +1,3 @@
 # goruntu_isleme_ile_pong_oyunu
+
+Bu proje, Python kullanılarak geliştirilmiş ve gerçek zamanlı el takibi (hand tracking) ile kontrol edilen bir Pong oyunudur. OpenCV kütüphanesi webcam görüntüsünü işlemek ve oyun ekranını oluşturmak için kullanılırken, cvzone ve MediaPipe teknolojileri el konumunu algılayarak oyuncunun raketi fiziksel fare veya klavye yerine doğrudan el hareketleriyle kontrol etmesini sağlar. Oyun içerisinde şeffaf PNG görseller kullanılarak arka plan, top ve raketler dinamik olarak ekrana yerleştirilir. Bu proje, bilgisayarlı görü (computer vision) ve gerçek zamanlı görüntü işleme tekniklerini oyun geliştirme ile birleştiren pratik bir uygulama örneğidir.
